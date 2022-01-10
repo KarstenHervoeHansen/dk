@@ -10,11 +10,13 @@ It is not possible to select folder individual from the github GUI or command li
 * Enter the checkout directory and press OK
 
 URL examples:
+This wil download the spg documentation
 ```
-https://github.com/KarstenHervoeHansen/documentation/trunk/spg
+https://github.com/KarstenHervoeHansen/dk/trunk/documentation/spg
 ```
+This will download everything
 ```
-https://github.com/KarstenHervoeHansen/documentation/trunk/spg/LT428
+https://github.com/KarstenHervoeHansen/dk/trunk
 ```
 ## Windows 10 Screen dumps
 ![image](https://user-images.githubusercontent.com/97158843/148644145-a9493899-a530-44f7-aef1-690ed3193dce.png)
