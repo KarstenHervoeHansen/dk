@@ -14,7 +14,7 @@ This wil download the spg documentation
 ```
 https://github.com/KarstenHervoeHansen/dk/trunk/documentation/spg
 ```
-This will download everything
+This will download everything. Beware this is a lot of data!
 ```
 https://github.com/KarstenHervoeHansen/dk/trunk
 ```
