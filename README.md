@@ -21,7 +21,7 @@ https://github.com/KarstenHervoeHansen/dk/trunk
 ## Windows 10 Screen dumps
 ![image](https://user-images.githubusercontent.com/97158843/148644145-a9493899-a530-44f7-aef1-690ed3193dce.png)
 
-![image](https://user-images.githubusercontent.com/97158843/148644052-0d133733-783c-4867-9f54-e0e4efe11764.png)
+
 
 ## References
 [^svn]: TortoiseSVN (https://tortoisesvn.net/downloads.html).
